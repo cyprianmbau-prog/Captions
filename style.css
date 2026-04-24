@@ -1,0 +1,35 @@
+/* design body */
+body {
+    background-color: blue;
+}
+
+/* style heading */
+h1 {
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 5px;
+    text-align: center;
+    background-color: blue;
+    color: black;
+
+}
+
+/*  modifies the introductory paragraph */
+.intro {
+    color: white;
+    width: 40%;
+    margin-left: 500px;
+    margin-top: -380px;
+    font-size: 20px;
+
+}
+
+/* modifies introductory statement */
+strong {
+    text-decoration: italic;
+}
+
+a {
+    color: black;
+    margin-left: 500px;
+}
