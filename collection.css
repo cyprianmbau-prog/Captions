@@ -1,0 +1,46 @@
+/*modifies the body*/
+body {
+    background-color: aquamarine;
+}
+
+/*designing the heading*/
+h1 {
+    color: white;
+    font-weight: bold;
+}
+
+/*intro design*/
+.intro {
+    font-weight: bold;
+}
+
+/*modifies benefits paragraph*/
+.fav {
+    float: right;
+    background-color: blueviolet;
+    width: 40%;
+    margin-top: -150px;
+}
+
+/*designs vehicles image*/
+.car {
+    float: right;
+    margin-left: 550px;
+    margin-top: -365px;
+}
+
+/*modifies mountain image*/
+.column {
+    float: right;
+    margin-left: 550px;
+    margin-top: -270px;
+}
+
+/*modifies main content*/
+.main {
+    color: purple
+}
+
+img {
+    width: 30%;
+}
