@@ -33,3 +33,10 @@ a {
     color: black;
     margin-left: 500px;
 }
+
+@media screen and (min-width: 20px) {
+    body {
+        background-color: blue;
+
+    }
+}
