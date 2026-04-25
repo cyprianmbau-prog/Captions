@@ -24,6 +24,7 @@
         background-color: yellow;
         width: 40%;
         margin-top: -150px;
+        border: 2px solid blue;
     }
 
     /*designs vehicles image*/
@@ -59,6 +60,7 @@
 
     .fav {
         background-color: yellow;
+        border: 2px solid blue;
     }
 
     .main {
