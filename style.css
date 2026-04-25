@@ -12,7 +12,6 @@
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         margin: 5px;
         text-align: center;
-        background-color: blue;
         color: black;
 
     }
@@ -41,7 +40,7 @@
 /*modification for screen above 20px*/
 @media screen and (min-width: 20px) {
     body {
-        background-color: blue;
+        background-color: rgb(101, 101, 241);
     }
 
     .intro {
