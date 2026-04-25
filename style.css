@@ -12,7 +12,7 @@
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         margin: 5px;
         text-align: center;
-        background-color: green;
+        background-color: blue;
         color: black;
 
     }
@@ -49,6 +49,6 @@
     }
 
     a {
-        color: yellow;
+        color: white;
     }
 }
