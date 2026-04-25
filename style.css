@@ -38,9 +38,17 @@
     }
 }
 
+/*modification for screen above 20px*/
 @media screen and (min-width: 20px) {
     body {
         background-color: blue;
+    }
 
+    .intro {
+        color: black;
+    }
+
+    a {
+        color: yellow;
     }
 }
